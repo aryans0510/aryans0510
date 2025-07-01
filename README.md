@@ -1,66 +1,85 @@
-<!-- Header with waving hand -->
-<h1 align="center">Hey there! 👋 I'm ARYAN</h1>
+<h1 align="center">Hi there 👋, I'm ARYAN SINGH</h1>
+<h3 align="center">🚀 Aspiring <strong>Frontend Developer</strong> | Passionate about building beautiful and interactive web experiences 💻🎨 | Builder of Wild Ideas</h3>
 
-<!-- Short tagline -->
 <p align="center">
-  🚀 Developer | 🛠️ Problem Solver | 🎨 Creative Coder
-</p>
-
-<!-- Animated GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Machine+Learning+Projects;Data+Visualization;Model+Training+%26+Evaluation;Face+Unlock;Eye+Tracking;Hand+Gesture+Control;Mood-Based+Music+Suggester;" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🔧 Technologies & Tools
+### 🧑‍💻 About Me
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="streak stats" />
-</p>
+- 🎓 Pursuing **B.Tech in Computer Engineering** from Pillai College Of Engineering
+- 👨‍💻 Currently diving deep into Machine Learning
+- 🧠 Learning **React-Native** to build cross-platform mobile apps
+- 🛠️ Skilled in **React**, **javascript**, **Figma**, **Tailwind-css**
+- 🧪 Passionate about bringing **AI to real-world applications with great UX**
 
 ---
 
-### 📈 Contribution Graph
+### 🧩 Featured Projects
 
+- 🎮 **Dev-Dashboard**  
+  Developer dashboard built with React for streamlined project management
+
+
+🔗 Explore all my projects at: [Repositories](https://github.com/aryans0510?tab=repositories)
+
+---
+
+## 🏆 Hackathons & Events
+
+- ⚔️ **Inceptia 2025** – Built Logi-ledger AI
+
+## 📊 GitHub Stats & Contributions
+
+<!-- GitHub Trophy Section -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" alt="activity graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranay096&theme=algolia&no-frame=true&title=Stars,Commits,PRs,Issues,Repositories,Followers" />
+</p>
+
+<!-- GitHub Stats Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranay096&show_icons=true&theme=algolia&count_private=true&hide_title=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay096&layout=compact&theme=algolia&hide=html,css" width="48%"/>
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay096&theme=algolia&hide_border=true" width="60%" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay096&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
 
-### ✨ Fun Fact
+### 🛠️ Tech Stack
 
-> 💡 *"I turn coffee into code and dreams into reality."*
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,fastapi,flask,html,css,tailwind,mongodb,sqlite,firebase,git,github,vscode,postman&theme=dark&perline=6" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=github_dark&line1=JavaScript,js,f7df1e;Python,python,3776ab;React,react,61dafb;&line2=Node.js,nodejs,339933;Express,express,000000;MongoDB,mongodb,47a248;&line3=Git,git,f05032;VS%20Code,visualstudiocode,007acc;Firebase,firebase,ffca28;" alt="My Tech Stack" />
+</div>
 
 ---
 
-### 🌐 Let's Connect!
+### 📫 Let's Connect
+
+- 📧 Email: aryands0510@gmail.com 
+- 💼 LinkedIn: [linkedin.com/in/pranay-pelapkar-3591b4333](https://www.linkedin.com/in/aryan-singh-6b408836a/)  
+- 🌐 Portfolio (Coming Soon): [aryansingh.dev](https://pranaypelapkar.dev)
+
+---
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
+  <img src="https://camo.githubusercontent.com/069e3ef2850e722ccaef748bf8cdadafeed9fd4a9ee1436daebd7e820f4402a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064" width="350"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
+> ⚡ *“Making machines see, think, and play just like us!”*
