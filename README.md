@@ -1,16 +1,12 @@
 <h1 align="center">Hi there 👋, I'm ARYAN SINGH</h1>
 <h3 align="center">🚀 Aspiring <strong>Frontend Developer</strong> | Passionate about building beautiful and interactive web experiences 💻🎨 | Builder of Wild Ideas</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Machine+Learning+Projects;Data+Visualization;Model+Training+%26+Evaluation;Face+Unlock;Eye+Tracking;Hand+Gesture+Control;Mood-Based+Music+Suggester;" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
 
 - 🎓 Pursuing **B.Tech in Computer Engineering** from Pillai College Of Engineering
-- 👨‍💻 Currently diving deep into Machine Learning
+- 👨‍💻 Blending modern UI with 3D web tech
 - 🧠 Learning **React-Native** to build cross-platform mobile apps
 - 🛠️ Skilled in **React**, **javascript**, **Figma**, **Tailwind-css**
 - 🧪 Passionate about bringing **AI to real-world applications with great UX**
@@ -71,7 +67,7 @@
 ### 📫 Let's Connect
 
 - 📧 Email: aryands0510@gmail.com 
-- 💼 LinkedIn: [linkedin.com/in/pranay-pelapkar-3591b4333](https://www.linkedin.com/in/aryan-singh-6b408836a/)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/aryan-singh-6b408836a/)](https://www.linkedin.com/in/aryan-singh-6b408836a/)  
 - 🌐 Portfolio (Coming Soon): [aryansingh.dev](https://pranaypelapkar.dev)
 
 ---
