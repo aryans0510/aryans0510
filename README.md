@@ -71,7 +71,7 @@
 
 - 📧 Email: aryands0510@gmail.com 
 - 💼 LinkedIn: [https://www.linkedin.com/in/aryan-singh-6b408836a/)](https://www.linkedin.com/in/aryan-singh-6b408836a/)  
-- 🌐 Portfolio : (https://aryan-portfolioo.netlify.app/)
+- 🌐 Portfolio : https://aryan-portfolioo.netlify.app/
 
 ---
 
